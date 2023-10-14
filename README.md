@@ -23,6 +23,18 @@
 
 ###
 
+<div align="center">
+  <img height="400" src="https://i.ibb.co/YPryZSX/Blue-Modern-Cleaning-Service-Instagram-Post.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://i.ibb.co/VTSxX1T/Blue-Modern-Cleaning-Service-Instagram-Post-1.png"  />
+</div>
+
+###
+
 <p align="left">a web scraping script in Python to extract and analyze top headlines from various news websites. The script collects text data from a curated list of news sources, filters out irrelevant words and phrases, and generates a visual representation of the most frequent words in the headlines.<br><br>Using Python's BeautifulSoup and requests libraries, I fetched data from sites like CNN, Reuters, Al Jazeera, and more. The script filters out stop words, specific terms, and even date formats to provide a concise analysis. It then creates a bar chart to visualize the top 15 most common words and saves the results in a folder.</p>
 
 ###
